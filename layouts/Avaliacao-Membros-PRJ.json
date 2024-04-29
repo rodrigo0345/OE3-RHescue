@@ -15,17 +15,17 @@
         {
             "type": "MEASURED",
             "names": [
-                "Ana Carolina Cunha",
-                "Beatriz Fonseca",
-                "Daniel Leite",
-                "Fernanda Carvalho",
-                "Inês Faria",
-                "Joana Morgado",
+                "Daniel Cunha",
+                "David Fernandes",
+                "Davide Rodrigues",
+                "Gonçalo Arantes",
+                "José Araújo",
+                "Madalena Passos",
                 "Márcia Costa",
-                "Margarida Correia",
-                "Margarida Fernandes",
-                "Margarida Lima",
-                "Maria Moreira"
+                "Nelson Matins",
+                "Rodrigo Ralha",
+                "Simão Dias",
+                "Tiago Pereira"
             ]
         },
         {
@@ -56,23 +56,15 @@
                     "type": "NUMBER"
                 },
                 {
-                    "label": "O membro \u00e9 capaz de publicitar a EPIC J\u00fanior de uma forma correta e precisa.",
+                    "label": "1. O membro acompanha as suas tarefas recorrentes, quer individuais quer em equipa, de forma a confirmar que está tudo sob controlo.",
                     "type": "NUMBER"
                 },
                 {
-                    "label": "O membro consegue elaborar designs para diferentes tipos de divulga\u00e7\u00e3o, procurando manter os componentes que constroem a imagem p\u00fablica da EPIC J\u00fanior.",
+                    "label": "2. O membro tem a capacidade de identificar e resolver dificuldades e problemas quando os mesmos surgem.",
                     "type": "NUMBER"
                 },
                 {
-                    "label": "3. O membro é capaz de desenvolver propostas de valor claras, concisas e transparentes capazes de conquistar/convencer o público alvo.",
-                    "type": "NUMBER"
-                },
-                {
-                    "label": "4. O membro é capaz de manter um contacto com os clientes, de forma profissional, pontual e assertiva, quer via email quer em reuniões.",
-                    "type": "NUMBER"
-                },
-                {
-                    "label": "5. O membro consegue pensar, pesquisar, justificar e decidir a estratégia adequada a cada tarefa.",
+                    "label": "3. O membro demonstra ser apto para gerir e liderar equipas de projetos, sendo empenhado e capaz de tomar decisões.",
                     "type": "NUMBER"
                 },
                 {
